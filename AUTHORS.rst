@@ -5,7 +5,7 @@ Credits
 Development Lead
 ----------------
 
-* Audrey Roy Greenfeld <audreyr@example.com>
+* Firstname Lastname <___@example.com>
 
 Contributors
 ------------
