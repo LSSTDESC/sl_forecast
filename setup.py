@@ -45,7 +45,7 @@ setup(
     packages=find_packages(include=["sl_forecast", "sl_forecast.*"]),
     test_suite="tests",
     tests_require=test_requirements,
-    url="https://github.com/audreyr/sl_forecast",
-    version="0.1.0",
+    url="https://github.com/LSSTDESC/sl_forecast",
+    version="0.0.0",
     zip_safe=False,
 )

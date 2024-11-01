@@ -13,6 +13,13 @@ SL Forecast
         :target: https://sl-forecast.readthedocs.io/en/latest/?version=latest
         :alt: Documentation Status
 
+.. image:: https://results.pre-commit.ci/badge/github/LSSTDESC/sl_forecast/main.svg
+   :target: https://results.pre-commit.ci/latest/github/LSSTDESC/sl_forecast/main
+   :alt: pre-commit.ci status
+
+.. image:: https://codecov.io/gh/LSSTDESC/sl_forecast/graph/badge.svg?token=n9xsxU1rbY 
+ :target: https://codecov.io/gh/LSSTDESC/sl_forecast
+
 
 
 
