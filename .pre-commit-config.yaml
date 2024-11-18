@@ -36,7 +36,6 @@ repos:
     hooks:
       - id: black-jupyter
         language_version: python3
-  hooks:
   - repo: local
     hooks:
       - id: docformatter
@@ -44,9 +43,9 @@ repos:
         description: Formats docstrings to follow PEP 257.
         entry: python -Im docformatter
         additional_dependencies:
-        - docformatter == 1.7.5
+          - docformatter == 1.7.5
         args:
-        - --in-place
+          - --in-place
         language: python
         types:
-        - python
+          - python
