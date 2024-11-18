@@ -5,10 +5,10 @@
 import pytest
 
 
-class TestSLForecast:
+class TestSLForecast(object):
     """Tests for `sl_forecast` package."""
 
-    def setup_class(cls):
+    def setup_method(self):
         """Setup test fixtures, if any."""
         pass
 
@@ -16,7 +16,3 @@ class TestSLForecast:
         from sl_forecast import __version__
 
         assert __version__ is not None
-
-    def teardown_class(cls):
-        """Teardown test fixtures, if any."""
-        pass
