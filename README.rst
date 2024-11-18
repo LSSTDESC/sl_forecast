@@ -3,11 +3,8 @@ SL Forecast
 ===========
 
 
-.. image:: https://img.shields.io/pypi/v/sl_forecast.svg
-        :target: https://pypi.python.org/pypi/sl_forecast
-
-.. image:: https://img.shields.io/travis/audreyr/sl_forecast.svg
-        :target: https://travis-ci.com/audreyr/sl_forecast
+.. .. image:: https://img.shields.io/pypi/v/sl_forecast.svg
+..         :target: https://pypi.python.org/pypi/sl_forecast
 
 .. image:: https://readthedocs.org/projects/sl-forecast/badge/?version=latest
         :target: https://sl-forecast.readthedocs.io/en/latest/?version=latest
