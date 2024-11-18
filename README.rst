@@ -3,15 +3,19 @@ SL Forecast
 ===========
 
 
-.. image:: https://img.shields.io/pypi/v/sl_forecast.svg
-        :target: https://pypi.python.org/pypi/sl_forecast
-
-.. image:: https://img.shields.io/travis/audreyr/sl_forecast.svg
-        :target: https://travis-ci.com/audreyr/sl_forecast
+.. .. image:: https://img.shields.io/pypi/v/sl_forecast.svg
+..         :target: https://pypi.python.org/pypi/sl_forecast
 
 .. image:: https://readthedocs.org/projects/sl-forecast/badge/?version=latest
         :target: https://sl-forecast.readthedocs.io/en/latest/?version=latest
         :alt: Documentation Status
+
+.. image:: https://results.pre-commit.ci/badge/github/LSSTDESC/sl_forecast/main.svg
+   :target: https://results.pre-commit.ci/latest/github/LSSTDESC/sl_forecast/main
+   :alt: pre-commit.ci status
+
+.. image:: https://codecov.io/gh/LSSTDESC/sl_forecast/graph/badge.svg?token=n9xsxU1rbY 
+ :target: https://codecov.io/gh/LSSTDESC/sl_forecast
 
 
 
