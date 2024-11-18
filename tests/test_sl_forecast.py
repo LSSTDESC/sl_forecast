@@ -2,8 +2,6 @@
 
 """Tests for `sl_forecast` package."""
 
-import pytest
-
 
 class TestSLForecast(object):
     """Tests for `sl_forecast` package."""
