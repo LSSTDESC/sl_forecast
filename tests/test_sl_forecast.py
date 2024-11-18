@@ -11,3 +11,5 @@ class TestSLForecast:
     @pytest.fixture
     def test_version(self):
         from sl_forecast import __version__
+
+        assert __version__ is not None
